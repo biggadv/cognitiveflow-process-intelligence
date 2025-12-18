@@ -28,3 +28,19 @@ This project bridges the gap between business analysis and technical execution, 
 - AI-based pattern detection
 - Visual process mapping
 - Integration marketplace
+
+  ---
+
+### How this project works (simple explanation)
+
+This project simulates an intelligent engine that analyzes business processes.
+
+You describe a process with steps, duration, and whether they are manual or automatic.
+
+The system:
+- Identifies slow steps (bottlenecks)
+- Detects manual tasks that could be automated
+- Returns a structured analysis
+
+This project demonstrates process analysis, automation mindset, and API design.
+
